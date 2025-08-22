@@ -25,7 +25,9 @@ This project presents a multi-input machine learning model that fuses image feat
 
 ![Pairplot](images/welded_vs_non-welded.png) 
 
-![Pairplot](images/num_of_cracks_distribution.png) 
+![Pairplot](images/num_of_cracks_distribution.png)
+
+![Pairplot](images/performance.png)
 
 ![Pairplot](images/accuracies.png) 
 
